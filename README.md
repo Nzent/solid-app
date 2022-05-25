@@ -1,3 +1,5 @@
+![fla7r78gx3kdw15cburq](https://user-images.githubusercontent.com/26079832/170285640-f2a6ed38-5eb6-46d6-9668-2088ae1620cc.png)
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
